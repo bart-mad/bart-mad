@@ -1,6 +1,6 @@
 ### Hello there :monkey_face:
 
-Engineering shenanigans - from :poland: based in :sweden:
+Engineering shenanigans - :airplane:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
